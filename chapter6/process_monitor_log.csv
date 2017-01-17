@@ -1,0 +1,10 @@
+Time,User,Executable,CommandLine,PID,Parent,Privileges
+Time,User,Executable,CommandLine,PID,Parent,Privileges
+20170108103601.250000-480, IE8WINXP\IEUser, C:\WINDOWS\system32\notepad.exe, "C:\WINDOWS\system32\notepad.exe" , 456, 1616, SeChangeNotifyPrivilege|SeImpersonatePrivilege|SeCreateGlobalPrivilege|
+
+20170108103842.078125-480, NT AUTHORITY\SYSTEM, C:\WINDOWS\system32\wuauclt.exe, "C:\WINDOWS\system32\wuauclt.exe" /RunStoreAsComServer Local\[40c]SUSDS4bebc22f3195444abd46dd1a04b5a430, 232, 1036, SeTcbPrivilege|SeCreatePagefilePrivilege|SeLockMemoryPrivilege|SeIncreaseBasePriorityPrivilege|SeCreatePermanentPrivilege|SeDebugPrivilege|SeAuditPrivilege|SeChangeNotifyPrivilege|SeProfileSingleProcessPrivilege|SeImpersonatePrivilege|SeCreateGlobalPrivilege|
+
+20170108104002.671875-480, IE8WINXP\IEUser, C:\WINDOWS\system32\wuauclt.exe, "C:\WINDOWS\system32\wuauclt.exe", 436, 1036, SeChangeNotifyPrivilege|SeImpersonatePrivilege|SeCreateGlobalPrivilege|
+
+20170108104213.312500-480, IE8WINXP\IEUser, None, None, 3288, 3272, SeChangeNotifyPrivilege|SeImpersonatePrivilege|SeCreateGlobalPrivilege|
+
